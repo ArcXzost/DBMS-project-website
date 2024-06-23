@@ -295,6 +295,12 @@ function setScreenSizeVariable() {
   } else if (canvas.width >= 768) {
     cardsPerPage = 6;
   }
+  else if (canvas.width<768 && canvas.width>=740){
+    cardsPerPage = 4;
+  }
+  else if (canvas.width<740 && canvas.width>=360){
+    cardsPerPage = 12;
+  }
 }
 
 setScreenSizeVariable();
