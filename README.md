@@ -19,4 +19,4 @@ This project is as simple as it gets as it uses simple HTML, CSS and Javascript 
 
 ## Note
 
-This is a part of a more sophisticated project **Matrix Real Estate** [github.com/Rainet473/Matrix-Real-Estate](github.com/Rainet473/Matrix-Real-Estate) which is a database management system for a real estate firm. It also incorporates a **GUI** which implements algorithms which enable transactions for buying, selling, renting and reselling property. So in simple words the listing page is made to attract customers and acts as a catalog to use the **GUI** to buy, sell, rent or resell properties. Go check out the entire project !
+This is a part of a more sophisticated project **Matrix Real Estate** [github.com/Rainet473/Matrix-Real-Estate](https://github.com/Rainet473/Matrix-Real-Estate) which is a database management system for a real estate firm. It also incorporates a **GUI** which implements algorithms which enable transactions for buying, selling, renting and reselling property. So in simple words the listing page is made to attract customers and acts as a catalog to use the **GUI** to buy, sell, rent or resell properties. Go check out the entire project !
